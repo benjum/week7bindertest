@@ -1,9 +1,5 @@
 pandas
 numpy
 matplotlib
-scipy
-ipywidgets
 sklearn
 nltk
-researchpy
-statsmodels
